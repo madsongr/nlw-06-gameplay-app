@@ -23,7 +23,6 @@ export function SignIn() {
 
     return (
 
-        //Views agrupam pra poder movimentar os elementos; tipo as div
         <Background>
             <View style={styles.container}>
 
